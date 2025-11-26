@@ -1,0 +1,63 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x" timestamp="1433785867931">
+  <folder name="css">
+    <file name="site_global.css" crc="4050142196"/>
+    <file name="index.css" crc="3957720868" ref="index"/>
+    <file name="traductores_com_gt-eng.css" crc="270910133" ref="traductores.com.gt-eng"/>
+    <file name="iefonts_traductores_com_gt-eng.css" crc="4047656955" ref="traductores.com.gt-eng"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:traductores.com.gt-eng"/>
+    <file name="museutils.js" crc="521960461" ref="index:traductores.com.gt-eng"/>
+    <file name="pie.js" crc="3827607177" ref="index:traductores.com.gt-eng"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:traductores.com.gt-eng"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:traductores.com.gt-eng"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:traductores.com.gt-eng"/>
+    <file name="webpro.js" crc="220831917" ref="index:traductores.com.gt-eng"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index:traductores.com.gt-eng"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index:traductores.com.gt-eng"/>
+    <file name="touchswipe.js" crc="325405309" ref="index:traductores.com.gt-eng"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index:traductores.com.gt-eng"/>
+    <file name="form_check.php" crc="218543696" ref="index:traductores.com.gt-eng"/>
+    <file name="form_throttle.php" crc="3988545917" ref="index:traductores.com.gt-eng"/>
+    <file name="form_process.php" crc="4264751530" ref="index:traductores.com.gt-eng"/>
+    <file name="form-u807.php" crc="350351264" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:traductores.com.gt-eng"/>
+    <file name="form-u5082.php" crc="3786744449" ref="traductores.com.gt-eng"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3799513754" ref="index"/>
+    <file name="2.png" crc="414689229" ref="index:traductores.com.gt-eng"/>
+    <file name="1.png" crc="455343804" ref="index:traductores.com.gt-eng"/>
+    <file name="3.png" crc="4173585668" ref="index:traductores.com.gt-eng"/>
+    <file name="fondo.png" crc="504967663" ref="index:traductores.com.gt-eng"/>
+    <file name="0007420253u-849x565-ieu564-fr.png" crc="3975762319" ref="index:traductores.com.gt-eng"/>
+    <file name="0007420253u-849x565.jpg" crc="378467844" ref="index:traductores.com.gt-eng"/>
+    <file name="edificios.png" crc="4031691219" ref="index:traductores.com.gt-eng"/>
+    <file name="foto 2-ieu560-fr.png" crc="4002033691" ref="index:traductores.com.gt-eng"/>
+    <file name="foto 2.jpg" crc="4108244718" ref="index:traductores.com.gt-eng"/>
+    <file name="foto 2-u560-r-fr.png" crc="418033030" ref="index:traductores.com.gt-eng"/>
+    <file name="5_small_business_tips_for_2013-ieu563-fr.png" crc="3976358728" ref="index:traductores.com.gt-eng"/>
+    <file name="5_small_business_tips_for_2013.jpg" crc="3841901370" ref="index:traductores.com.gt-eng"/>
+    <file name="foto 1-ieu559-fr.png" crc="3796850500" ref="index:traductores.com.gt-eng"/>
+    <file name="foto 1.jpg" crc="4111724737" ref="index:traductores.com.gt-eng"/>
+    <file name="1b.jpg" crc="88935416" ref="index:traductores.com.gt-eng"/>
+    <file name="1.jpg" crc="318616648" ref="index:traductores.com.gt-eng"/>
+    <file name="3b.jpg" crc="3975338123" ref="index:traductores.com.gt-eng"/>
+    <file name="3.jpg" crc="4258779270" ref="index:traductores.com.gt-eng"/>
+    <file name="2b.jpg" crc="115397964" ref="index:traductores.com.gt-eng"/>
+    <file name="2.jpg" crc="104717924" ref="index:traductores.com.gt-eng"/>
+    <file name="fondo contactanos.png" crc="4081531740" ref="index:traductores.com.gt-eng"/>
+    <file name="u834-17.png" crc="50043517" ref="index"/>
+    <file name="u834-17-r.png" crc="3880585867" ref="index"/>
+    <file name="u834-17-m.png" crc="4192761554" ref="index"/>
+    <file name="u834-17-fs.png" crc="17360879" ref="index"/>
+    <file name="icono tarifa.png" crc="3834560679" ref="index:traductores.com.gt-eng"/>
+    <file name="fb.png" crc="4266340859" ref="index:traductores.com.gt-eng"/>
+    <file name="u5100-17.png" crc="3821503582" ref="traductores.com.gt-eng"/>
+    <file name="u5100-17-r.png" crc="300954882" ref="traductores.com.gt-eng"/>
+    <file name="u5100-17-m.png" crc="3895978713" ref="traductores.com.gt-eng"/>
+    <file name="u5100-17-fs.png" crc="3975158076" ref="traductores.com.gt-eng"/>
+  </folder>
+  <file name="index.html" crc="266674214" mt="1433530036591" redirect="true"/>
+  <file name="traductores.com.gt-eng.html" crc="253769402" mt="1433530048231" redirect="true"/>
+</manifest>
